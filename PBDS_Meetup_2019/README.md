@@ -27,7 +27,7 @@ Slides and notebooks with code will be available after the talk.
 
 ### Slides (HTML)
 
-* [PBDS Main Slide deck](./PBDS_DeepLearningCV_2019.html)
+* [PBDS Main Slide deck](./PBDS_DeepLearningCV_2019.slides.html)
 * [MNIST Digit Classification (MLP and CNN)](./MNIST_Digit_Classification.html)
 * [VGG16 Image Classification](./VGG16_Image_Classification.html)
 * [YOLOv3 Object Detection](./YOLOv3_Object_Detection.html)

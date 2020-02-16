@@ -3,7 +3,7 @@
 <hr/>
 
 <img src="./images/kyoto.jpg" alt="Nelson Correa" width="180" align="left" style="border:10px solid white" />
-<br/>
+
 ## *Nelson Correa* 
 Data scientist and machine learning developer. <br/>
 AI, Deep learning, natural language processing, machine translation, and speech recognition. <br/>
