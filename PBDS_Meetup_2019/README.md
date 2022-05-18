@@ -1,5 +1,4 @@
 # README
-
 ## Palm Beach Data Science Meetup (07/18/2019)
 
 [https://www.meetup.com/Palm-Beach-Data-Meetup/events/262988444/](https://www.meetup.com/Palm-Beach-Data-Meetup/events/262988444/) <br/>
@@ -10,6 +9,8 @@ Slides and Jupyter notebooks from the Palm Beach Data Science Meetup of Thursday
 **Speaker: Nelson Correa, *Ph.D.*** <br/>
 Twitter: [@nelscorrea](https://twitter.com/nelscorrea) <br/>
 [https://linkedin.com/in/ncorrea](https://linkedin.com/in/ncorrea) <br/>
+
+<!-- img src="./images/pbds_meetup_cv_20190718.jpg" alt="Palm Beach Data Science Meetup" width="700" -->
 
 ### Description
 
