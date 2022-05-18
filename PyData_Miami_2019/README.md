@@ -1,4 +1,4 @@
-<img src="./images/pydata_logo.png" alt="PyData logo">
+<img src="./images/pydata_logo.png" alt="PyData logo" width="300">
 
 <hr/>
 

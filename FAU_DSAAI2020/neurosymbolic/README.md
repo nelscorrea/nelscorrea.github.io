@@ -7,7 +7,7 @@
 <hr/> 
 
 [https://www.fau.edu/data/schedule/2020/](https://www.fau.edu/data/schedule/2020/) <br/>
-Slides and Jupyter notebooks from the Florida Atlantic University, Data Science, Analytics, and AI Conference, Saturday, November 14, 2020.
+Slides from the Florida Atlantic University, Data Science, Analytics, and AI Conference, Saturday, November 14, 2020.
 
 ### NLP and AI: Neural and Symbolic Approaches 
 
@@ -30,7 +30,7 @@ New performance of applications in natural language processing (NLP) and artific
 
 ### Slides (PDF)
 
-* [Schedule](./https://www.fau.edu/data/schedule/2020/)
+* [Schedule](https://www.fau.edu/data/schedule/2020/)
 * [Abstract](./dsaai-3-paper-14-NLP-AI-Neuro-Symbolic-Correa.pdf) 
 * [Slides](./DSAAI3-Correa-slides-14-NeuroSymbolic-NLP-AI.pdf)
 * [YouTube](https://youtu.be/F8NKV2ZGR_Q)
