@@ -1,8 +1,8 @@
-<img src="./poxy_v0017_n2076_crop.png" alt="Oxyrhynchus Papyri" width="640">
-
 <hr/>
 
 # Nelson Correa, *Publications*
+
+<img src="./poxy_v0017_n2076_crop.png" alt="Oxyrhynchus Papyri" width="640">
 
 <hr/> 
 
