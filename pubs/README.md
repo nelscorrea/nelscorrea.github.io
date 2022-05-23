@@ -12,7 +12,6 @@
 * [Google Scholar](https://scholar.google.com/citations?user=WxKuWs8AAAAJ)
 
 <br/>
-
 <hr/>
 
 
@@ -22,9 +21,10 @@
 Department of Electrical and Computer Engineering, 1988, 
 UMI ProQuest 8914562 ([PDF](https://nelscorrea.github.io/pubs/NLP-1988-Correa-PhD_Dissertation_ProQuest_1595339639202.pdf))
 
+<br/>
 <hr/>
 
-## Journal and Book Chapters
+## Selected Publications
 
 * “*Attribute and Unification Grammar:  A review and analysis of formalisms*.”  Annals of Mathematics and Artificial Intelligence, Vol. 8, No. III, J.C. Baltzer, Zürich, 1993.  ([PDF](./NLP-1993-Correa1993_Article_AttributeAndUnificationGrammar.pdf))
 
