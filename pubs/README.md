@@ -1,12 +1,12 @@
 <hr/>
 
-# Nelson Correa, *Publications*
+# Nelson Correa - Publications
 
 <img src="./poxy_v0017_n2076_crop.png" alt="Oxyrhynchus Papyri" width="640">
 
 <hr/> 
 
-## Publications
+## List of Publications
 
 * List of publications ([PDF](./CV-NCorrea-2022-pubs.pdf))
 * [Google Scholar](https://scholar.google.com/citations?user=WxKuWs8AAAAJ)
@@ -20,7 +20,7 @@
 
 “*Syntactic Analysis of English with respect to Government-Binding Grammar*,” Syracuse University,    
 Department of Electrical and Computer Engineering, 1988, 
-UMI ProQuest 8914562 ([PDF](https://nelscorrea.github.io/pub/NLP-1988-Correa-PhD_Dissertation_ProQuest_1595339639202.pdf))
+UMI ProQuest 8914562 ([PDF](https://nelscorrea.github.io/pubs/NLP-1988-Correa-PhD_Dissertation_ProQuest_1595339639202.pdf))
 
 <hr/>
 
