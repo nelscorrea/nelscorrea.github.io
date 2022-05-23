@@ -4,7 +4,9 @@
 [https://www.meetup.com/Palm-Beach-Data-Meetup/events/262988444/](https://www.meetup.com/Palm-Beach-Data-Meetup/events/262988444/) <br/>
 Slides and Jupyter notebooks from the Palm Beach Data Science Meetup of Thursday, July 18, 2019.
 
-### Deep Learning Architectures for Image Classification and Object Detection
+<hr/> 
+
+### *Deep Learning Architectures for Image Classification and Object Detection*
 
 **Speaker: Nelson Correa, *Ph.D.*** <br/>
 Twitter: [@nelscorrea](https://twitter.com/nelscorrea) <br/>

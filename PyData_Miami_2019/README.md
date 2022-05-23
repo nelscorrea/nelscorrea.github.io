@@ -7,7 +7,9 @@
 
 01/10/2019
 
-**Title**: Weather and Electric Load Forecasting with Python Data Science Tools
+<hr/> 
+
+**Title**: *Weather and Electric Load Forecasting with Python Data Science Tools*
 
 **Speaker**: Nelson Correa, *Ph.D.* <br/>
 [@nelscorrea](https://twitter.com/nelscorrea)
@@ -26,8 +28,8 @@ This talk presents weather and electric load forecasting using Python data scien
 
 * [Conference Program](https://pydata.org/miami2019/schedule/)
 * [Abstract](https://pydata.org/miami2019/schedule/presentation/9/) 
-* [Slides-1, Weather](./PyDataMiami2019_WeatherForecasting-slides.pdf)
-* [Slides-2, Electric load](./PyDataMiami2019_ElectricLoadForecasting-slides.pdf)
+* [Slides-1, Weather](./PyData_WeatherForecasting.pdf)
+* [Slides-2, Electric load](./PyData_ElectricLoadForecasting.pdf)
 
 <br/>
 <hr/>
