@@ -5,7 +5,7 @@
 # PyData Miami 2022
 [https://pydata.org/miami2022/](https://pydata.org/miami2022/)
 
-01/10/2019
+09/22/2022
 
 <hr/> 
 
