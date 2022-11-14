@@ -1,9 +1,9 @@
-<img src="./images/ieee_andescon_logo.png" alt="IEEE Andescon logo" width="300">
+<img src="./images/ieee_andescon_logo.png" alt="IEEE Andescon logo" width="200">
 
 <hr/>
 
 # 2022 IEEE Andescon 
-<img src="./images/neural_2350_cover_title.jpg" alt="2022 IEEE Andescon - Neural Text Classification Evaluation" width="800">
+<img src="./images/neural_2350_cover_title.jpg" alt="2022 IEEE Andescon - Neural Text Classification Evaluation" width="600">
 
 [https://attend.ieee.org/andescon/](https://attend.ieee.org/andescon/)
 
