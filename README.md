@@ -16,8 +16,10 @@ LinkedIn: [https://linkedin.com/in/ncorrea](https://linkedin.com/in/ncorrea) <br
 <hr/>
 
 ### Talk repositories
+* [*Neural Text Classification for Digital Transformation in the Financial Regulatory Domain*](./andescon2022/) (Nov. 2022) 
+  - [IEEE Andescon 2022](https://attend.ieee.org/andescon//) \| [Slides - TBD](./andescon2022/ANDESCON2022_neural_nlp_2350_ncorrea_slides.pdf)
 * [*Enterprise Semantic Search with Python Large Language Models*](./PyData_Miami_2022/) (Sept. 2022) 
-  - [PyData Miami 2022](https://pydata.org/miami2022/schedule/) \| [Slides - TBD](./PyData_Miami_2022/)
+  - [PyData Miami 2022](https://pydata.org/miami2022/schedule/) \| [Slides](./PyData_Miami_2022/PyData_Miami_2022_ESS_ncorrea_FINAL.pdf/)
 * [*Natural Language Processing and AI: Neural and Symbolic Approaches*](./FAU_DSAAI2020/) (Nov. 2020) 
   - [FAU DSAAI Conference](https://www.fau.edu/data/schedule/2020/) \| [Slides](./FAU_DSAAI2020/Correa-slides-14-NeuroSymbolic-NLP-AI.pdf)
 * [*Deep Learning Architectures for Image Classification and Object Detection*](./PBDS_Meetup_2019) (July, 2019) 
