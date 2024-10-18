@@ -34,7 +34,7 @@ A core use case in artificial intelligence and natural language processing (NLP)
 
 ### Materials
 
-* [Conference Program](https://attend.ieee.org/andescon/program-2022/)
+* [Conference Program](https://ieeexplore.ieee.org/xpl/conhome/9989530/proceeding/)
 * [Paper](./ANDESCON2022_neural_nlp_2350_ncorrea_paper.pdf) (PDF)
 * [Slides](./ANDESCON2022_neural_nlp_2350_ncorrea_slides_sm.pdf) (PDF)
 <!-- * [Repository - TBD](./) -->

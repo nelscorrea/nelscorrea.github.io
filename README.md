@@ -16,8 +16,12 @@ LinkedIn: [https://linkedin.com/in/ncorrea](https://linkedin.com/in/ncorrea) <br
 <hr/>
 
 ### Talk repositories
+<!--
+* [*Generative AI for Consumer Communications: Classification, Summarization, Response Generation*](./andescon2024/) (Sept. 2024) 
+  - [IEEE Andescon 2024](https://attend.ieee.org/andescon/) \| [Slides](./andescon2024/ANDESCON2024_Paper43_NCorrea_TALK_20240913_sm.pdf)
+  -->
 * [*Neural Text Classification for Digital Transformation in the Financial Regulatory Domain*](./andescon2022/) (Nov. 2022) 
-  - [IEEE Andescon 2022](https://attend.ieee.org/andescon//) \| [Slides - TBD](./andescon2022/ANDESCON2022_neural_nlp_2350_ncorrea_slides.pdf)
+  - [IEEE Andescon 2022](https://ieeexplore.ieee.org/xpl/conhome/9989530/proceeding/) \| [Slides](./andescon2022/ANDESCON2022_neural_nlp_2350_ncorrea_slides.pdf)
 * [*Enterprise Semantic Search with Python Large Language Models*](./PyData_Miami_2022/) (Sept. 2022) 
   - [PyData Miami 2022](https://pydata.org/miami2022/schedule/) \| [Slides](./PyData_Miami_2022/PyData_Miami_2022_ESS_ncorrea_FINAL.pdf/)
 * [*Natural Language Processing and AI: Neural and Symbolic Approaches*](./FAU_DSAAI2020/) (Nov. 2020) 
